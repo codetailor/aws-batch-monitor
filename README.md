@@ -1,2 +1,1 @@
-# aws-batch-monitor
-AWS Batch Monitor
+# AWS Batch Monitor
